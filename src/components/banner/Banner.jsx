@@ -6,6 +6,8 @@ export default function Banner() {
   return (
     <div>
       <h1>{t("hero.title")}</h1>
+      <p>{t("hero.subtitle")}</p>
+      <button>{t("hero.cta")}</button>
     </div>
   )
 }
