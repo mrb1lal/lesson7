@@ -9,5 +9,8 @@
     "title": "Ilovangizni istalgan tilga tayyorlang",
     "subtitle": "React va i18next yordamida tez, qulay va kengaytiriladigan ko'p tillilik tizimini quring.",
     "cta": "Boshlash"
+  },
+   "footer": {
+    "copyright": "Copyright 2023"
   }
 }
